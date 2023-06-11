@@ -16,7 +16,7 @@
 
 ## 💻 Sobre
 
-Projeto feito no processo seletivo para estágio. Desenvolvimento de formulário de cadastro de fornecedor/produto e documentos, possui funcionalidades como consultar CEP automaticamente usando API, cadastro de produtos que são adicionados ao carrinho e podem ser removidos, cadastro de documentos que podem ser removidos e baixados. Ao enviar o formulário, os dados são salvos em formato JSON e armazenados na session storage.
+<strong>Projeto feito no processo seletivo para estágio</strong>. Desenvolvimento de formulário de cadastro de fornecedor/produto e documentos, possui funcionalidades como consultar CEP automaticamente usando API, cadastro de produtos que são adicionados ao carrinho e podem ser removidos, cadastro de documentos que podem ser removidos e baixados. Ao enviar o formulário, os dados são salvos em formato JSON e armazenados na session storage.
 
 ## Requisitos
 
