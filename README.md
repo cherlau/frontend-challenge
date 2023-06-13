@@ -41,7 +41,7 @@
    * Botão Visualizar (olho): Ao visualizar o documento, o mesmo deverá realizar o donwload do documento
 * Botão ‘Enviar’: ao clicar no botão, deverá ser aberto modal de loading de envio, e deverá ser formatado um JSON com os dados a serem enviados, conforme exemplo:
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> 
 
 ```bash 
 {	razaoSocial: 'Razao social',
