@@ -1,4 +1,4 @@
-<a href="https://frontendchalenge.web.app/" target="_blank"> <h1 align="center">Frontend Challenge 🚀</h1></a>
+<h1 align="center">Frontend Challenge 🚀</h1>
 
 <p align="center">
  <a href="#-sobre">Sobre</a> •
@@ -89,7 +89,7 @@ Acesse!! https://frontendchalenge.web.app/
 
 <h3 align="center">Formulário de cadastro
   <p></p>
-  <img src="./.github/page1.png" width="700px"/>
+  <a href="https://frontendchalenge.web.app/" target="_blank"><img src="./.github/page1.png" width="700px"/></a>
   <img src="./.github/page5.png" width="700px"/>	
   <img src="./.github/page4.png" width="700px"/>	
   <img src="./.github/page2.png" width="700px"/>	
